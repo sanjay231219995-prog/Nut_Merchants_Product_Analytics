@@ -1,0 +1,26 @@
+git status
+
+
+On branch main
+nothing to commit, working tree clean
+
+git init
+
+git init
+
+git log -1
+
+commit 3ab12c...
+Author: Your Name <you@example.com>
+Date:   Thu Aug 1 14:30:00 2024 +0530
+
+    Add README with insights
+
+
+GIT_COMMITTER_DATE="2024-04
+-15T10:00:00" git commit --amend --no-edit --date="2024-06-15T10:00:00"
+
+
+
+
+
